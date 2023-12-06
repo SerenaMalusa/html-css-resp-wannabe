@@ -19,7 +19,7 @@ Aggiungiamo una media query per sistemare il layout e non far comparire la scrol
 
 Apriamo le slide e usiamole come guida per il lavoro, aggiungiamo sempre solo un pezzettino alla volta.  
 Per poter vedere correttamente un sito responsive è necessaria l'aggiunta del tag (se non c'è già):  
-<meta name="viewport" content="width=device-width, initial-scale=1.0">  
+`<meta name="viewport" content="width=device-width, initial-scale=1.0">`
 
 #### Avviso
 Fate attenzione:  
