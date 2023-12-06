@@ -51,6 +51,11 @@
         height: auto;
     }
 
+    /* why-us img central alinment */
+    .why-us .col.col-left {
+        text-align: center;
+    }
+
     /* background color for why-us section */
     .why-us {
         background-color: #222222;
@@ -61,5 +66,5 @@
     .steps {
         margin-bottom: 0;
     }
-    
+
 }
