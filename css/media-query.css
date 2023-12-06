@@ -1,0 +1,9 @@
+/* RESET DEL CONTAINER PER MIGLIORE ADATTAMENTO
+    ALLE DIMENSIONI INTERMEDIE AL 768PX */
+@media screen and (max-width: 1140px) {
+
+    .container {
+        width: 100%;
+    }
+    
+}
