@@ -52,30 +52,14 @@
     }
 
     /* background color for why-us section */
-    body {
+    .why-us {
         background-color: #222222;
-    }
-
-    header,
-    .lessons {
-        background-color: #232946;
-    }
-
-    .site-header {
-        margin-top: 0;
         padding: 3rem 0;
-    }
-
-    h1 {
         margin-bottom: 0;
     }
-
-    .lessons {
-        padding-bottom: 3rem;
-    }
-
+    
     .steps {
-        margin-top: 0;
+        margin-bottom: 0;
     }
     
 }
