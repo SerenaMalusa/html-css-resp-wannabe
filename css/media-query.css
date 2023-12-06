@@ -1,5 +1,5 @@
-/* RESET DEL CONTAINER PER MIGLIORE ADATTAMENTO
-    ALLE DIMENSIONI INTERMEDIE AL 768PX */
+/* CONTATINER RESER FOR BETTER ADAPTATION TO MESURES
+    BETWEEN FULL SCREEN AND 768PX */
 @media screen and (max-width: 1160px) {
 
     .container {
@@ -27,11 +27,11 @@
         font-size: 2rem;
     }
 
-    .text {
+    p {
         font-size: 1.2rem;
     }
 
-    /* allieemento cards */
+    /* cards alignment */
     .row {
         flex-direction: column;
         gap: 5rem;
@@ -43,7 +43,7 @@
         width: 100%;
     }
 
-    /* dimensione immagini */
+    /* img width */
     .lessons .col img,
     .steps .col img,
     .why-us .col img {
@@ -51,4 +51,31 @@
         height: auto;
     }
 
+    /* background color for why-us section */
+    body {
+        background-color: #222222;
+    }
+
+    header,
+    .lessons {
+        background-color: #232946;
+    }
+
+    .site-header {
+        margin-top: 0;
+        padding: 3rem 0;
+    }
+
+    h1 {
+        margin-bottom: 0;
+    }
+
+    .lessons {
+        padding-bottom: 3rem;
+    }
+
+    .steps {
+        margin-top: 0;
+    }
+    
 }
